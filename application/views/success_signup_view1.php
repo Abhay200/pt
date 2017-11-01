@@ -14,6 +14,7 @@
 		echo 'Successful signing up as Driver';
 
 	?>
+    <br>Click here for 	<a href="<?php echo base_url();?>">login</a
 </p>
 
 

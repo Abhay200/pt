@@ -14,8 +14,10 @@
 		echo 'Successful signing up as Passenger';
 
 	?>
+    <br>Click here for 	<a href="<?php echo base_url();?>">login</a>
 </p>
 
+    
 
 </p>
 
