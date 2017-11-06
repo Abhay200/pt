@@ -7,7 +7,7 @@
 
 <div>
 
-<center> <h2 class="text-muted">PRIVATE TAXI RENTAL SYSTEM <small>GIVE A RIDE</small></h2></center>
+<center> <h2 class="text-muted">PRIVATE TAXI RENTAL SYSTEM <small><a href="<?php echo base_url();?>profile/driver">GIVE A RIDE</a></small></h2></center>
  <p class="text-muted">
 PRIVATE TAXI RENTAL SYSTEM<br/>
  GIVE A RIDE ON YOUR WAY AND EARN MONEY<br/><br/>
@@ -31,7 +31,7 @@ PRIVATE TAXI RENTAL SYSTEM<br/>
     
 
 
-<div style="background:rgba(6,175,80,0.15);" class="form-academic">
+<div style="bground:rgba(6,175,80,0.15);" class="form-academic">
    <!#FFF>
 	<form style="padding-left:7%;padding-right:7%;" method="POST" action="<?php echo 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];?>">
         <div><center><h1 style="font-size:200%"><label for="username">LOG IN </label></h1></center></div>

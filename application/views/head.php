@@ -30,7 +30,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				  </script>
 				
 
-<body  style="background-color: rgba(0, 0, 255, 0.1);width:99%;">
+<body  style="background-color: rgba(0, 0, 255, 0.1);width:100%;">
 <div class="container-fluid header">
 	<div class="row">
 	<div class="col-xs-11">
