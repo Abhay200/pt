@@ -86,7 +86,7 @@ main {
 .info {
   margin-top: -5px;
   margin-bottom: 5px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-size: 11pt;
   color: #aaa;
 }
@@ -96,7 +96,7 @@ main {
   text-align: center;
   padding-bottom: 20px;
   border-bottom: 1px solid #ededed;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Product Sans', sans-serif;
 }
 
 
@@ -104,7 +104,7 @@ main {
   padding: 0px;
   font-size: 14pt;
   font-weight: bold;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   color: #aaa;
 }
 
@@ -155,7 +155,7 @@ main {
   cursor: pointer;
   font-size: 13pt;
   text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-weight: 500;
   color: #888;
 }
@@ -175,7 +175,7 @@ main {
   padding: 8px 15px;
   cursor: pointer;
   transition: all .4s;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   font-weight: 400;
 }
 
